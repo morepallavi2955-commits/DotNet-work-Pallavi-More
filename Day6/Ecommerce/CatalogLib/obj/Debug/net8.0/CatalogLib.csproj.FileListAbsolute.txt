@@ -1,0 +1,11 @@
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\bin\Debug\net8.0\CatalogLib.deps.json
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\bin\Debug\net8.0\CatalogLib.dll
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\bin\Debug\net8.0\CatalogLib.pdb
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\CatalogLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\CatalogLib.AssemblyInfoInputs.cache
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\CatalogLib.AssemblyInfo.cs
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\CatalogLib.csproj.CoreCompileInputs.cache
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\CatalogLib.dll
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\refint\CatalogLib.dll
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\CatalogLib.pdb
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\Ecommerce\CatalogLib\obj\Debug\net8.0\ref\CatalogLib.dll
