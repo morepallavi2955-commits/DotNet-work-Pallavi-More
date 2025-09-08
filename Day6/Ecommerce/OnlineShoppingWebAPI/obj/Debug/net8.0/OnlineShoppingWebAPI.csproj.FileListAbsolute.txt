@@ -62,3 +62,4 @@ C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-wor
 C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day6\Ecommerce\OnlineShoppingWebAPI\obj\Debug\net8.0\OnlineShoppingWebAPI.pdb
 C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day6\Ecommerce\OnlineShoppingWebAPI\obj\Debug\net8.0\OnlineShoppingWebAPI.genruntimeconfig.cache
 C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day6\Ecommerce\OnlineShoppingWebAPI\obj\Debug\net8.0\ref\OnlineShoppingWebAPI.dll
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day6\Ecommerce\OnlineShoppingWebAPI\obj\Debug\net8.0\OnlineShoppingWebAPI.sourcelink.json
