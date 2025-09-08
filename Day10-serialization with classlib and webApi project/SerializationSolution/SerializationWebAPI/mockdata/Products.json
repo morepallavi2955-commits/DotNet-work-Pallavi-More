@@ -1,0 +1,7 @@
+[
+  { "Id": 1, "Title": "Iphone", "Price": 9999.99, "Description": "Best mobile.", "Name": "ABC" },
+  { "Id": 2, "Title": "Androidphone", "Price": 699.99, "Description": "Good mobile.", "Name":"xyz" },
+  { "Id": 3, "Title": "Tablet", "Price": 399.99, "Description": "Better tablet.", "Name":"PQR" },
+  { "Id": 4, "Title": "Headphones", "Price": 199.99, "Description": "Noise-cancelling.","Name":"WXY" },
+  { "Id": 5, "Title": "Watch", "Price": 249.99, "Description": "Gym Essentials.", "Name":"EFG" }
+]
