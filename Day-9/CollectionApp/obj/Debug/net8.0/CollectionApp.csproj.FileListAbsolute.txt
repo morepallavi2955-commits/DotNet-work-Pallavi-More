@@ -1,0 +1,15 @@
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.AssemblyInfoInputs.cache
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.AssemblyInfo.cs
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.sourcelink.json
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\bin\Debug\net8.0\CollectionApp.exe
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\bin\Debug\net8.0\CollectionApp.deps.json
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\bin\Debug\net8.0\CollectionApp.runtimeconfig.json
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\bin\Debug\net8.0\CollectionApp.dll
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\bin\Debug\net8.0\CollectionApp.pdb
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.dll
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\refint\CollectionApp.dll
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.pdb
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\CollectionApp.genruntimeconfig.cache
+C:\Users\pallavi.more\OneDrive - Nihilent Limited\Documents\.NET work\DotNet-work-Pallavi-More\Day-9\CollectionApp\obj\Debug\net8.0\ref\CollectionApp.dll
