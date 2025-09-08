@@ -1,8 +1,6 @@
 ﻿﻿
 using CRM;
-
 using System.Collections.Generic;
-
 using System.Text.Json;
 using System.IO;
 
@@ -64,14 +62,8 @@ for (int i = 0; i < jaggedArray.Length; i++)
     Console.WriteLine();
 }
 
-
-
 //Sorting
-
-
-
 Array.Sort(numbers); //numbers.Reverse();
-
 Console.WriteLine("After Sorting");
 foreach (var number in numbers)
 {
@@ -100,10 +92,16 @@ foreach (var customer in customers)
 */
 
 
-List<Customer> topCustomers = new List<Customer>();
-topCustomers.Add(new Customer(3, "Smith", 89));
-topCustomers.Add(new Customer(4, "Charan", 40));
-topCustomers.Add(new Customer(5, "Abhay", 25));
+// List<Customer> topCustomers = new List<Customer>();
+// topCustomers.Add(new Customer(3, "Smith", 89));
+// topCustomers.Add(new Customer(4, "Charan", 40));
+// topCustomers.Add(new Customer(5, "Abhay", 25));
+
+LinkedList<Customer> topCustomers = new LinkedList<Customer>();
+topCustomers.AddLast(new Customer(3, "Smith", 89));
+topCustomers.AddLast(new Customer(4, "Charan", 40));
+topCustomers.AddLast(new Customer(5, "Abhay", 25));
+
 
 Console.WriteLine("--------------------------------");
 
@@ -115,15 +113,13 @@ foreach (var customer in topCustomers)
 
 //Array.Sort(topCustomers.ToArray());
 
-topCustomers.Sort(); //Uses IComparable implementation in Customer class
+//topCustomers.Sort(); //Uses IComparable implementation in Customer class
 
 Console.WriteLine("Top Customers: After Sorting");
 foreach (var customer in topCustomers)
 {
     Console.WriteLine(customer);
 }
-
-
 
 //Dictionary
 Dictionary<string, Customer> customersDirectory = new Dictionary<string, Customer>();
