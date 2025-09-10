@@ -1,0 +1,6 @@
+@SaasApp_HostAddress = http://localhost:5139
+
+GET {{SaasApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
