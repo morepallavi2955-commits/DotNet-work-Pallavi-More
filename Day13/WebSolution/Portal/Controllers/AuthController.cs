@@ -48,7 +48,7 @@ public class AuthController : Controller
         && c.Password == password);
         if (customer != null)
         {
-            this.Response.Redirect("/auth/register");
+            this.Response.Redirect("/product");
         }
 
         return View();

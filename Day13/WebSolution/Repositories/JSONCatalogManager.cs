@@ -12,7 +12,7 @@ public static class JSONCatalogManager
     // as well as converting between JSON data and Product objects.
     private static string GetJsonFilePath()
     {
-        return Path.Combine(Directory.GetCurrentDirectory(), "mockup", "Products.json");
+        return Path.Combine(Directory.GetCurrentDirectory(), "mockup", "products.json");
     }
     private static string GetCustomerJsonFilePath()
     {

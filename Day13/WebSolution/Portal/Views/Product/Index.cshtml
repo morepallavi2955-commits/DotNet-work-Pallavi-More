@@ -1,0 +1,12 @@
+@using Entities;
+@{
+    List<Product> products = Model;
+    foreach(var product in products)
+    {
+        <div>
+            <h3>@product.Name</h3>
+            <p>Price: @product.Price</p>
+            <p>Description: @product.Description</p>
+        </div>
+    }
+}

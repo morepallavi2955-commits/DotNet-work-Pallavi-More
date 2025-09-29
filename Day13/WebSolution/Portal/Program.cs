@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 //CRM Repository and Service Registration
-
+builder.WebHost.UseUrls("http://localhost:4200");
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();

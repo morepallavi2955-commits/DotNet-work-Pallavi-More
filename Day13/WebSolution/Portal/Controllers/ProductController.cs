@@ -25,6 +25,7 @@ public class ProductController : Controller
     {
         var products = _productService.GetAllProducts();
         //return ViewResults as JSON for testing
+        Console.WriteLine("Hello, world!", products);
         return View(products);
     }
 
