@@ -25,19 +25,6 @@ public class AuthController : Controller
         return View();
     }
 
-
-    // [HttpPost]
-    //  public IActionResult Login(string email, string password)
-    // {
-
-    //     if (email == "a@gmail.in" && password == "seed")
-    //     {
-    //         this.Response.Redirect("/home/index");
-    //         //this.Response.Redirect("/products/index");
-    //     }
-    //     return View();
-    // }
-
     [HttpPost]
     public IActionResult Login(string email, string password)
     {
@@ -48,7 +35,7 @@ public class AuthController : Controller
         && c.Password == password);
         if (customer != null)
         {
-            this.Response.Redirect("/product");
+           return this.RedirectToAction("index", "product");
         }
 
         return View();
